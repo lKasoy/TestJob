@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "430340755822",
+    "firebase_url": "https://databasetest1-9c318-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "databasetest1-9c318",
+    "storage_bucket": "databasetest1-9c318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430340755822:android:63ca702635ad8cf51a317f",
+        "android_client_info": {
+          "package_name": "com.example.reddittopapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430340755822-m873nbus6dcd9ieknfchusofhdstm846.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2wCJQsls3Ua6uCZPpEYdH2LUP6U6qK0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430340755822-m873nbus6dcd9ieknfchusofhdstm846.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430340755822:android:bd17532244eb9a1c1a317f",
+        "android_client_info": {
+          "package_name": "com.example.testjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430340755822-m873nbus6dcd9ieknfchusofhdstm846.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2wCJQsls3Ua6uCZPpEYdH2LUP6U6qK0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430340755822-m873nbus6dcd9ieknfchusofhdstm846.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
